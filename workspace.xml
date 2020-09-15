@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86dcbf31-2ad2-475b-b559-b5db79408230" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dTQI05HPEzTLm6Ko2lSU9NqDGB" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../responsiv cv" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ccgl\Desktop\fashion&amp;beauty" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86dcbf31-2ad2-475b-b559-b5db79408230" name="Default Changelist" comment="" />
+      <created>1592446519080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592446519080</updated>
+      <workItem from="1592446520554" duration="82215000" />
+      <workItem from="1592995685350" duration="200006000" />
+      <workItem from="1594389245335" duration="1272000" />
+      <workItem from="1594447818902" duration="243000" />
+      <workItem from="1594448324847" duration="5696000" />
+      <workItem from="1594639044985" duration="1543000" />
+      <workItem from="1594648006795" duration="173000" />
+      <workItem from="1594714475447" duration="9688000" />
+      <workItem from="1594743393273" duration="828000" />
+      <workItem from="1595061260119" duration="4436000" />
+      <workItem from="1595169661392" duration="2995000" />
+      <workItem from="1595241364730" duration="911000" />
+      <workItem from="1595290323924" duration="20000" />
+      <workItem from="1595324980469" duration="90000" />
+      <workItem from="1595325235994" duration="28000" />
+      <workItem from="1595326697442" duration="85000" />
+      <workItem from="1595327212709" duration="94000" />
+      <workItem from="1595327334281" duration="16000" />
+      <workItem from="1595327485362" duration="39000" />
+      <workItem from="1595581737526" duration="86000" />
+      <workItem from="1595762734455" duration="2592000" />
+      <workItem from="1596363836658" duration="125000" />
+      <workItem from="1596873016016" duration="97000" />
+      <workItem from="1597232273679" duration="62000" />
+      <workItem from="1599658923114" duration="5086000" />
+      <workItem from="1599752060038" duration="2455000" />
+      <workItem from="1599754871584" duration="1417000" />
+      <workItem from="1600000305390" duration="681000" />
+      <workItem from="1600001019070" duration="14566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
